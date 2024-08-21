@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2 {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.nav-component {
+  display: flex;
+}
+.menu {
+  justify-content: space-evenly;
+}
